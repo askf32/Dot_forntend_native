@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "Dot_game",
+    "slug": "Dot_game",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "Dot_game"
+}
