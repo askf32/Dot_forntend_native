@@ -5,7 +5,11 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+        
+    "extra": {
+      "apiUrl": "http://192.168.0.103:3000" 
+    }
   },
   "name": "Dot_game"
 }
